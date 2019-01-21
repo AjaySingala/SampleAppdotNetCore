@@ -20,7 +20,7 @@ namespace SampleApp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "This is my house!!!";
+            ViewData["Message"] = "This is my house!!! Mind it!";
 
             return View();
         }
