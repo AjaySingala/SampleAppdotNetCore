@@ -1,3 +1,4 @@
+// Comment added to feature1 branch.
 using System;
 
 namespace SampleApp.Models
