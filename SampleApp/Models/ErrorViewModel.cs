@@ -2,7 +2,7 @@
 // Comment added to development/test2 branch.
 // Comment added to development/test3 branch.
 // Comment added to development/feature3 branch. 
-// Comment added to development/test3 branch again.
+// Comment added to development/test3 and feature3 branches again.
 using System;
 
 namespace SampleApp.Models
